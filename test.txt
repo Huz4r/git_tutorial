@@ -1,3 +1,6 @@
 Dodaje nowa linie.
 
 Nowy ficzer
+
+Dodaje nową linię z brancza nowy_ficzer_2
+
